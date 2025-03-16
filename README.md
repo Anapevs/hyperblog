@@ -6,7 +6,7 @@ This repository was created for a Git and GitHub course to practice version cont
 ✅ **HTML5** - For the blog structure.  
 ✅ **CSS3** - For styling and layout.  
 ## 📂 Project Structure 
-
+```
 /hyperblog  
 │── index.html       # Main HTML file  
 │── index.txt        # Text file 
@@ -14,3 +14,4 @@ This repository was created for a Git and GitHub course to practice version cont
 │── .gitignore       # Git ignore rules  
 │── /Styles          # Styles folder  
 │   └── estilos.css  # CSS file  
+```
